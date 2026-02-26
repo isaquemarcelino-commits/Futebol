@@ -1,4 +1,3 @@
-index.html
 mini-football-game/
 │
 ├── main.py
